@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Data Scientist working on end-to-end machine learning systems, including competitive pricing strategy and image classification.<br><br>* **Petrol Pricing Startup** – Engineering a competitive pricing strategy for petrol retailers, leveraging transactional data to model consumer behaviour.<br>* **Data Scientist at DearGarden** – Developing an end-to-end plant identification system, including dataset collection, model selection and fine-tuning.<br>* **MSc Student at QMUL** – Deepening my expertise in advanced machine learning, neural networks, and data processing.<br>
 
 
